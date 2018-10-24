@@ -1,2 +1,2 @@
-# Veb-saylar-n-haz-rlnmas-1
+# Website development2
 What you should pay attention to during website development: Modern looking and fast loading website;  Responsive design (computer, tablet and mobile forms);  Purchase of a domain;  High-performance hosting package;  Providing the website with an SSL certificate;  Providing professional business email addresses connected to your domain;  Registration for Google and other search engines;  Creating business pages on major social media platforms;  Custom website design. For more information: https://www.interactivemedia.az/en/website_development/
